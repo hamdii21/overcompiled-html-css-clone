@@ -1,0 +1,38 @@
+.contenaire{
+    width: 680px;
+    margin: auto;
+}
+.code0{
+    display: flex;
+    justify-content: space-between;
+}
+.code1{
+    display: flex;
+    justify-content: space-between;
+}
+.code2{
+    display: flex;
+    justify-content: space-between;
+}
+.code3{
+    display: flex;
+    justify-content: space-between;
+}
+.code4{
+    display: flex;
+    justify-content: space-between;
+}
+.code5{
+    display: flex;
+    justify-content: space-between;
+}
+.taille{
+    font-size: 15px;
+}
+.lien{
+    display:flex;
+    justify-content: space-between;
+}
+.taille{
+    font-size: 15px;
+}
